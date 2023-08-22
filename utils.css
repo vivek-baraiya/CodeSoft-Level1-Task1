@@ -1,0 +1,71 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-red{
+    background-color: red;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-center{
+    justify-content: center;
+}
+.font-bold{
+    font-weight: bold;
+    text-decoration: underline;
+    padding: 12px 0;
+    
+}
+.flex-col{
+    flex-direction: column;
+}
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.text-blue{
+    color:  rgb(233, 152, 77);
+    font-size: larger;
+}
+.btn{
+    padding-left: 4px 12px;
+    border: 2px solid darkblue;
+    border-radius: 6px;
+    color: white;
+    cursor: pointer;
+    background-color: rgb(233, 152, 77);
+}
+.btn:hover 
+{
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+.text-center{
+    text-align: center;
+}
+.btn1{
+    cursor: pointer;
+   
+}
+
+
+
